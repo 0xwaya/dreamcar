@@ -1,0 +1,7 @@
+# Exclude outreach and sales material
+pitch/
+
+# Exclude internal documentation
+*design*.md
+architecture-spec.md
+logo-design-doc.md

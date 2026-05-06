@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     viewBox="0 0 280 80" 
+     role="img" 
+     aria-label="Dream Car logo"
+     shape-rendering="geometricPrecision">
+  <title>Dream Car</title>
+  <defs>
+    <style>
+      .dc-primary { fill: #1A2B4A; }
+      .dc-accent { fill: #FF6B35; }
+      .dc-text { fill: #1A2B4A; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; }
+      .dc-tagline { fill: #1A2B4A; font-family: 'Inter', sans-serif; font-weight: 400; font-size: 9px; letter-spacing: 0.08em; }
+    </style>
+  </defs>
+  
+  <g id="mark">
+    <path class="dc-accent" d="M40 10 C55 10 65 20 65 35 C65 50 55 60 40 60 L30 60 C15 60 5 50 5 35 C5 20 15 10 30 10 L40 10 Z M40 18 L30 18 C19.5 18 13 24.5 13 35 C13 45.5 19.5 52 30 52 L40 52 C50.5 52 57 45.5 57 35 C57 24.5 50.5 18 40 18 Z" opacity="0.15"/>
+    <path class="dc-primary" d="M18 20 L32 20 C42 20 48 26 48 35 C48 44 42 50 32 50 L18 50 Z M26 28 L26 42 L32 42 C37 42 40 39 40 35 C40 31 37 28 32 28 Z"/>
+    <path class="dc-primary" d="M52 50 L52 42 C58 42 62 39 62 35 C62 31 58 28 52 28 L52 20 C62 20 68 26 68 35 C68 44 62 50 52 50 Z"/>
+    <g class="dc-accent">
+      <rect x="70" y="32" width="8" height="2.5" rx="1.25"/>
+      <rect x="70" y="37.5" width="12" height="2.5" rx="1.25"/>
+      <rect x="70" y="43" width="6" height="2.5" rx="1.25"/>
+    </g>
+  </g>
+  
+  <text class="dc-text" x="95" y="40" font-size="24">DREAM CAR</text>
+  <text class="dc-tagline" x="95" y="52">AUTO REPAIR EXCELLENCE</text>
+</svg>

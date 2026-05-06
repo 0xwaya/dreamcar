@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     viewBox="0 0 200 60" 
+     role="img" 
+     aria-label="Dream Car compact logo"
+     shape-rendering="geometricPrecision">
+  <title>Dream Car</title>
+  <defs>
+    <style>
+      .dc-primary { fill: #1A2B4A; }
+      .dc-accent { fill: #FF6B35; }
+      .dc-text { fill: #1A2B4A; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; }
+    </style>
+  </defs>
+  
+  <g id="mark" transform="translate(0, 5)">
+    <path class="dc-primary" d="M10 10 L22 10 C30 10 35 15 35 25 C35 35 30 40 22 40 L10 40 Z M16 16 L16 34 L22 34 C26 34 29 31 29 25 C29 19 26 16 22 16 Z"/>
+    <path class="dc-primary" d="M39 40 L39 34 C44 34 47 31 47 25 C47 19 44 16 39 16 L39 10 C47 10 52 15 52 25 C52 35 47 40 39 40 Z"/>
+    <g class="dc-accent">
+      <rect x="54" y="21" width="6" height="2" rx="1"/>
+      <rect x="54" y="25" width="9" height="2" rx="1"/>
+      <rect x="54" y="29" width="5" height="2" rx="1"/>
+    </g>
+  </g>
+  
+  <text class="dc-text" x="75" y="35" font-size="20">DREAM CAR</text>
+</svg>
